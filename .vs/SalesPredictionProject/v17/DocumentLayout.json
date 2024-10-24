@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Web App Projects\\SalesPredictionProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,15 +66,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -87,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -95,12 +91,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T14:20:49.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T14:20:49.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CustomDateTimeConverter.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Helpers\\CustomDateTimeConverter.cs",
               "RelativeDocumentMoniker": "Models\\Helpers\\CustomDateTimeConverter.cs",
@@ -108,12 +103,11 @@
               "RelativeToolTip": "Models\\Helpers\\CustomDateTimeConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:45:02.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T13:45:02.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ForecastResult.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Entity\\ForecastResult.cs",
               "RelativeDocumentMoniker": "Models\\Entity\\ForecastResult.cs",
@@ -121,12 +115,11 @@
               "RelativeToolTip": "Models\\Entity\\ForecastResult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:43:52.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T13:43:52.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -139,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -147,12 +140,11 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAAwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:11:04.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:11:04.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ForecastResults.cshtml",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Views\\Sales\\ForecastResults.cshtml",
               "RelativeDocumentMoniker": "Views\\Sales\\ForecastResults.cshtml",
@@ -160,12 +152,11 @@
               "RelativeToolTip": "Views\\Sales\\ForecastResults.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T11:33:16.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T11:33:16.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ForecastService.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Service\\ForecastService.cs",
               "RelativeDocumentMoniker": "Models\\Service\\ForecastService.cs",
@@ -173,12 +164,11 @@
               "RelativeToolTip": "Models\\Service\\ForecastService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAuwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:11:58.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T11:11:58.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SalesController.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
@@ -191,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SalesData.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Entity\\SalesData.cs",
               "RelativeDocumentMoniker": "Models\\Entity\\SalesData.cs",
@@ -199,8 +189,7 @@
               "RelativeToolTip": "Models\\Entity\\SalesData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:48:32.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:48:32.117Z"
             }
           ]
         }
