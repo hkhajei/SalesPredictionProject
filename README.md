@@ -31,3 +31,67 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/hkhajei/SalesPredictionProject.git
 cd SalesPredictionProject
+
+### 2. Set Up the Python Flask API
+Navigate to the /python folder (or where your Python files are located), install the dependencies, and run the Flask server:
+
+bash
+Copy code
+cd python
+pip install -r requirements.txt
+python app.py
+### 3. Set Up the ASP.NET Core MVC Application
+Go back to the root folder and run the ASP.NET Core project:
+
+bash
+Copy code
+dotnet build
+dotnet run
+Ensure that the Flask API is running on http://127.0.0.1:5000.
+
+### 4. Set Up the Database
+Update the connection string in appsettings.json to point to your local SQL Server instance.
+Run the following command to apply migrations and update the database:
+
+bash
+Copy code
+dotnet ef database update
+
+###5. Run the Application
+Go to your browser and navigate to http://localhost:5000 to see the web app.
+
+## Usage
+### Upload Sales Data
+Go to the Upload page to upload historical sales data.
+Ensure the data is in the correct format (e.g., CSV).
+
+###Forecast Sales
+After uploading the sales data, navigate to the Forecast page.
+Enter the forecast period (e.g., number of months to predict).
+The application will display the forecasted sales.
+
+## Example Output
+Date	Predicted Sales
+2022-06-01	12,345
+2022-07-01	13,567
+2022-08-01	14,789
+
+## Project Structure
+mathematica
+Copy code
+├── Controllers/
+│   ├── SalesController.cs
+├── Models/
+│   ├── Entity/
+│   │   ├── SalesData.cs
+│   │   ├── ForecastResult.cs
+│   ├── Service/
+│       ├── ForecastService.cs
+├── Views/
+│   ├── Home/
+│   ├── Sales/
+├── wwwroot/
+├── python/
+│   ├── forecast_model.py
+│   ├── app.py
+
