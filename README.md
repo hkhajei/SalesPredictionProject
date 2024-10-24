@@ -97,5 +97,4 @@ Copy code
 │   ├── app.py
 ```
 ## Screenshots
-```markdown
 ![Sales Forecast Screenshot](ScreenShots/Sales Forcast Results.jpg)
