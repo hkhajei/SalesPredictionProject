@@ -149,3 +149,4 @@ D:\Web App Projects\SalesPredictionProject\obj\Debug\net8.0\refint\SalesPredicti
 D:\Web App Projects\SalesPredictionProject\obj\Debug\net8.0\SalesPredictionProject.pdb
 D:\Web App Projects\SalesPredictionProject\obj\Debug\net8.0\SalesPredictionProject.genruntimeconfig.cache
 D:\Web App Projects\SalesPredictionProject\obj\Debug\net8.0\ref\SalesPredictionProject.dll
+D:\Web App Projects\SalesPredictionProject\obj\Debug\net8.0\SalesPredictionProject.sourcelink.json

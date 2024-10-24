@@ -29,11 +29,11 @@ namespace SalesPredictionProject.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        // Handles form submission and redirects to ForecastSales action
+
         [HttpPost]
         public IActionResult SubmitForecastPeriod(int forecastPeriod)
         {
-            // Redirect to SalesController's ForecastSales action, passing the forecastPeriod
+
             return RedirectToAction("ForecastSales", "Sales", new { forecastPeriod });
         }
     }

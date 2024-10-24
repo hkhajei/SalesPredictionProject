@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Web App Projects\\SalesPredictionProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\models\\entity\\forecastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:models\\entity\\forecastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\models\\service\\forecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +15,20 @@
       "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:views\\sales\\forecastresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\models\\entity\\forecastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:models\\entity\\forecastresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\models\\helpers\\customdatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:models\\helpers\\customdatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\models\\entity\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:models\\entity\\salesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|d:\\web app projects\\salespredictionproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE453A1-098E-457C-B4B6-5BC0BF0C5785}|SalesPredictionProject.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,81 +58,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAQwCUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:21:34.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T14:20:49.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomDateTimeConverter.cs",
-              "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Helpers\\CustomDateTimeConverter.cs",
-              "RelativeDocumentMoniker": "Models\\Helpers\\CustomDateTimeConverter.cs",
-              "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Helpers\\CustomDateTimeConverter.cs",
-              "RelativeToolTip": "Models\\Helpers\\CustomDateTimeConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:45:02.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ForecastResult.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Entity\\ForecastResult.cs",
               "RelativeDocumentMoniker": "Models\\Entity\\ForecastResult.cs",
               "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Entity\\ForecastResult.cs",
               "RelativeToolTip": "Models\\Entity\\ForecastResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:43:52.08Z"
+              "WhenOpened": "2024-10-24T13:43:52.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:11:18.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:11:18.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAwEcAAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T12:11:04.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ForecastResults.cshtml",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Views\\Sales\\ForecastResults.cshtml",
               "RelativeDocumentMoniker": "Views\\Sales\\ForecastResults.cshtml",
@@ -156,19 +107,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ForecastService.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Service\\ForecastService.cs",
               "RelativeDocumentMoniker": "Models\\Service\\ForecastService.cs",
               "ToolTip": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Service\\ForecastService.cs",
               "RelativeToolTip": "Models\\Service\\ForecastService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T11:11:58.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SalesController.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
@@ -176,12 +127,11 @@
               "RelativeToolTip": "Controllers\\SalesController.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAuwEQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:55:22.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:55:22.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "SalesData.cs",
               "DocumentMoniker": "D:\\Web App Projects\\SalesPredictionProject\\Models\\Entity\\SalesData.cs",
               "RelativeDocumentMoniker": "Models\\Entity\\SalesData.cs",

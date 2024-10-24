@@ -76,9 +76,9 @@ namespace SalesPredictionProject
 
             app.UseRouting();
 
-            //****************;)
+
             app.UseSession();
-            //****************
+
 
             app.UseAuthentication();
 

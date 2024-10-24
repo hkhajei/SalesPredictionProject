@@ -1,5 +1,4 @@
 ﻿using Newtonsoft.Json;
-using SalesPredictionProject.Models.Helpers;
 using System.Text.Json.Serialization;
 
 namespace SalesPredictionProject.Models.Entity
