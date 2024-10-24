@@ -97,4 +97,4 @@ Copy code
 │   ├── app.py
 ```
 ## Screenshots
-![Sales Forecast Screenshot](ScreenShots/Sales Forcast Results.jpg)
+![Sales Forecast Screenshot](ScreenShots/SalesForecastResults.jpg)
