@@ -19,8 +19,8 @@ This project is a **Sales Forecasting** application that uses historical sales d
 
 ## Requirements
 To run this project locally, you will need:
-- **.NET SDK** (version X.X or later)
-- **Python 3.X** with `Flask` and `Prophet`
+- **.NET SDK** (version 8.0 or later)
+- **Python 3.12.3** with `Flask` and `Prophet`
 - **SQL Server** or any database provider compatible with Entity Framework
 - **Git**
 
