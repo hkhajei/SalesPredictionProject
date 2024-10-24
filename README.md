@@ -36,7 +36,6 @@ cd SalesPredictionProject
 Navigate to the /python folder (or where your Python files are located), install the dependencies, and run the Flask server:
 
 ```bash
-Copy code
 cd python
 pip install -r requirements.txt
 python app.py
@@ -45,7 +44,6 @@ python app.py
 Go back to the root folder and run the ASP.NET Core project:
 
 ```bash
-Copy code
 dotnet build
 dotnet run
 ```
@@ -56,7 +54,6 @@ Update the connection string in appsettings.json to point to your local SQL Serv
 Run the following command to apply migrations and update the database:
 
 ```bash
-Copy code
 dotnet ef database update
 ```
 ### 5. Run the Application
