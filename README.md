@@ -70,13 +70,15 @@ Enter the forecast period (e.g., number of months to predict).
 The application will display the forecasted sales.
 
 ## Example Output
+```
 Date	Predicted Sales
 2022-06-01	12,345
 2022-07-01	13,567
 2022-08-01	14,789
+```
 
 ## Project Structure
-mathematica
+```mathematica
 Copy code
 ├── Controllers/
 │   ├── SalesController.cs
@@ -93,4 +95,4 @@ Copy code
 ├── python/
 │   ├── forecast_model.py
 │   ├── app.py
-
+```
