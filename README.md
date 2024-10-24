@@ -96,3 +96,6 @@ Copy code
 │   ├── forecast_model.py
 │   ├── app.py
 ```
+## Screenshots
+```markdown
+![Sales Forecast Screenshot](ScreenShots/Sales Forcast Results.jpg)
