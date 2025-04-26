@@ -33,6 +33,7 @@ namespace SalesPredictionProject.Controllers
         {
             return View();
         }
+
         public IActionResult ForecastResults(List<ForecastResult> forecastResults)
         {
             return View(forecastResults); // Pass the forecast results to the view

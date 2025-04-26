@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 from forecasting_model import forecast_sales
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -14,3 +15,8 @@ def forecast():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+
+# content=pd.read_json('content.json')
+# print
+# print(content)
+# print(forecast(content))

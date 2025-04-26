@@ -1,0 +1,1 @@
+{"forecast_period":3,"sales_data":[{"Date":"2022-01-01T00:00:00","SalesAmount":15000.0},{"Date":"2022-02-01T00:00:00","SalesAmount":20000.0},{"Date":"2022-03-01T00:00:00","SalesAmount":18000.0},{"Date":"2022-04-01T00:00:00","SalesAmount":22000.0},{"Date":"2022-05-01T00:00:00","SalesAmount":25000.0}]}
