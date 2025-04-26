@@ -1,0 +1,21 @@
+﻿@model List<SalesPredictionProject.Models.Entity.ForecastResult> 
+<!-- Replace with your actual namespace -->
+
+<h2>Sales Forecast Results</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Predicted Sales</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var forecast in Model)
+        {
+            <tr>
+                <td>@forecast.ds.ToShortDateString()</td>
+                <td>@forecast.yhat.ToString("C")</td> <!-- Format as currency -->
+            </tr>
+        }
+    </tbody>
+</table>

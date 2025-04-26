@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Upload Sales Data";
+}
+
+<h2>Upload Sales Data</h2>
+
+<form asp-action="UploadSalesData" asp-controller="Sales" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="salesDataFile">Select Sales Data File (JSON format)</label>
+        <input type="file" name="salesDataFile" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+
+<hr />
+
+<form asp-action="ForecastSales" asp-controller="Sales" method="get">
+    <div class="form-group">
+        <label for="forecastPeriod">Forecast Period (Months)</label>
+        <input type="number" name="forecastPeriod" class="form-control" value="3" />
+    </div>
+    <button type="submit" class="btn btn-success">Forecast</button>
+</form>
