@@ -27,7 +27,7 @@ namespace SalesPredictionProject.Models.Service
 
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var response = await _client.PostAsync("http://binno.ir/flaskapp/forecast", content);
+            var response = await _client.PostAsync("https://binno.ir/flaskapp/forecast", content);
 
             if (response.IsSuccessStatusCode)
             {
